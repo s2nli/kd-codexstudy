@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "batches": [
+    {
+      "_id": "english-special",
+      "name": "English Special",
+      "byName": "Dedicated for SSC CGL Exams",
+      "language": "Hinglish",
+      "previewImage": "assets/english-special.jpg",
+      "type": "RECORDED",
+      "slug": "english-special-ssc-cgl",
+      "subBatches": []
+    }
+  ]
+}
